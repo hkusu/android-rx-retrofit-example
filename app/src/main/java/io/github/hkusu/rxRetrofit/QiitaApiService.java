@@ -1,8 +1,7 @@
-package io.github.hkusu.rxRetrofit.service.api;
+package io.github.hkusu.rxRetrofit;
 
 import java.util.List;
 
-import io.github.hkusu.rxRetrofit.model.entity.QiitaItem;
 import retrofit2.http.GET;
 import rx.Observable;
 

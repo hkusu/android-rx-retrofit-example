@@ -1,4 +1,4 @@
-package io.github.hkusu.rxRetrofit.model.entity;
+package io.github.hkusu.rxRetrofit;
 
 import com.google.gson.annotations.SerializedName;
 
