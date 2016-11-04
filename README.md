@@ -1,8 +1,8 @@
 # android-rx-retrofit-example
 
-## Document
+## About this repository
 
-- [zzzz](http://qiita.com/hkusu/items/64a9435e1613e4c20ba7)
+- [????](http://qiita.com/hkusu/items/64a9435e1613e4c20ba7)
 
 ## Using library
 
