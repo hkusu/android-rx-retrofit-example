@@ -2,7 +2,7 @@
 
 ## About this repository
 
-- [????](http://qiita.com/hkusu/items/64a9435e1613e4c20ba7)
+- [Retrofit2 と RxJava で WEB-API の通信結果(JSON)を受け取る例](http://qiita.com/hkusu/items/07e6d09a8f13da71042b)
 
 ## Using library
 
